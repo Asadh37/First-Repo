@@ -1,0 +1,5 @@
+accession_no,title,author,isbn,shelf
+IMP-0001,Sample Imported Title,Example Author,9780000000001,A-01
+IMP-0002,Another Synthetic Book,Demo Writer,9780000000002,A-02
+,Missing accession should be rejected,Example Author,,A-03
+IMP-0001,Duplicate accession in this sheet,Duplicate Author,,A-01
