@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+*.db
+*.sqlite3
+uploads/
+backups/
+dist/
+build/
+.DS_Store
+sample_data/synthetic_20000_books.xlsx
